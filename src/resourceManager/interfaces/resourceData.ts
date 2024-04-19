@@ -1,0 +1,3 @@
+interface ResourceData {
+    data: any;
+}

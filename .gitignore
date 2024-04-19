@@ -1,0 +1,5 @@
+.vscode
+node_modules
+dist
+publish.sh
+yarn.lock
