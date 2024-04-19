@@ -18,7 +18,7 @@ This very simple game uses [Typescript](https://www.typescriptlang.org/) under t
 
 ### Live Demo
 
-There is a live demo available over at https://luccas-flappy-bird.surge.sh/.\
+There is a live demo available over at https://luccas-flappy-bird.surge.sh/.
 \
 Were you able to get all 4 medals?
 
