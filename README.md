@@ -1,5 +1,5 @@
-![Build status](https://github.com/luccasl/ts-flappy-bird/actions/workflows/deploy.yml/badge.svg)
 # Typescript Flappy Bird Clone
+![Build status](https://github.com/luccasl/ts-flappy-bird/actions/workflows/deploy.yml/badge.svg)
 
 ![A banner of the project containing a bird, pipes and a large text that says Typescript Flappy Bird Clone](images/banner.png "Typescript Flappy Bird Clone banner")
 
