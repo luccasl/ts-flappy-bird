@@ -1,4 +1,4 @@
-name: Deploy to Surge and generate Release Tag
+name: Build
 
 on:
   push:
